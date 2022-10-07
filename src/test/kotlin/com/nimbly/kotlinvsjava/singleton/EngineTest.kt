@@ -4,7 +4,7 @@ package com.nimbly.kotlinvsjava.singleton
 
 import org.junit.jupiter.api.Test
 
-class Singleton {
+class EngineTest {
 
     @Test
     fun singleton() {

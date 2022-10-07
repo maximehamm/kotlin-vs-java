@@ -2,8 +2,6 @@ package com.nimbly.kotlinvsjava.singleton;
 
 import org.jetbrains.annotations.NotNull;
 
-@SuppressWarnings("InstantiationOfUtilityClass")
-
 public class EngineJava {
 
     private static EngineJava instance;

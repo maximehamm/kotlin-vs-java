@@ -3,7 +3,7 @@ package com.nimbly.kotlinvsjava.state
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-class State {
+class MailSenderKotlinTest {
 
     @Test
     fun testK() {
